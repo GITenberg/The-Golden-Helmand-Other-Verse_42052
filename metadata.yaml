@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8220
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42052#The-Golden-Helmand-Other-Verse
 gutenberg_issued: '2013-02-08'
 gutenberg_type: Text
 identifiers:
