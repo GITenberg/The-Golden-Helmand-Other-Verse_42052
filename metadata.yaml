@@ -1,0 +1,32 @@
+_repo: The-Golden-Helmand-Other-Verse_42052
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42052-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gibson, Wilfrid Wilson
+    alias: Gibson, W. W. (Wilfrid Wilson)
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '8220'
+    url: http://www.gutenberg.org/2009/agents/8220
+    wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
+description: ''
+gutenberg_issued: '2013-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+tableOfContents: 'The torch -- The unknown knight -- The king''s death -- The Knight
+  of the Wood -- Notre Dame de la Belle-Verrière -- In the valley -- The vision: a
+  Christmas mystery -- The three kings -- The songs of Queen Averlaine -- The golden
+  helm.'
+title: The Golden Helm, and Other Verse
+url: http://www.gutenberg.org/ebooks/42052
